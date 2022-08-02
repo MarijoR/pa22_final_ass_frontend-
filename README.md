@@ -4,5 +4,3 @@
 - testing was done with talisman wallet (and it works)
 
 As for the final assigment frontend was not really focus didnt put too much effort to improve it. I guess it should be enough how it looks currently.
-
-# pa22_final_ass_frame_frontend
